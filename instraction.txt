@@ -1,0 +1,30 @@
+#General Instractions
+
+frontend 
+first
+
+npm install
+
+then,
+
+ng serve 
+
+#########################
+
+backend 
+first
+
+npm install
+
+then, 
+
+npm run start
+
+
+#########################
+
+Postgres Database used
+
+create database nodelogin
+
+
